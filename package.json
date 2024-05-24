@@ -1,0 +1,12 @@
+{
+  "name": "pattern",
+  "version": "1.0.0",
+  "description": "this is pattern code",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
+  },
+  "author": "rushikesh",
+  "license": "ISC"
+}
